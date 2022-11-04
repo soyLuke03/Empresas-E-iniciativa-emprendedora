@@ -1,0 +1,8 @@
+Echo Live / Echo Vr  IDEA 1
+Un programa que permite mediante Realidad Aumentada o Virtual volver a ver a tus seres queridos
+
+Echo Live es un servicio o programa que será la nueva revolución tecnológica en lo que respecta a “dar el último adiós” a tus seres queridos. Este programa creado a partir de una IA que recrea la voz y la apariencia de la persona que desees ver a través de fotos, vídeos o cualquier otro medio audiovisual. Echo Live está destinado a esas personas que desean ver de nuevo a algún familiar o amigo y poder despedirse de esa persona o en su defecto volver a tener ese último momento de felicidad. 
+ 
+
+SafeGuard  IDEA 2
+Un programa que mediante la cámara detecte tu estado de ánimo y cansancio para que te tomes un respiro
